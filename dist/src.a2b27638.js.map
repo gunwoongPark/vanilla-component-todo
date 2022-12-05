@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["app","document","querySelector","innerHTML"],"mappings":"AAAA,IAAMA,GAAG,GAAGC,QAAQ,CAACC,aAAa,CAAC,MAAM,CAAC;AAE1CF,GAAG,CAACG,SAAS,GAAG,aAAa","file":"src.a2b27638.js","sourceRoot":"..","sourcesContent":["const app = document.querySelector(\"#app\");\n\napp.innerHTML = \"hello world\";\n"]}

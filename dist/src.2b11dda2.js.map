@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["app","document","querySelector","innerHTML"],"mappings":";AAAA,IAAMA,EAAMC,SAASC,cAAc,QAEnCF,EAAIG,UAAY","file":"src.2b11dda2.js","sourceRoot":"..","sourcesContent":["const app = document.querySelector(\"#app\");\n\napp.innerHTML = \"hello world\";\n"]}
