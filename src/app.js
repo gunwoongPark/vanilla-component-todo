@@ -1,4 +1,4 @@
-import Items from "./components/Item";
+import Items from "./components/Items";
 
 class App {
   constructor() {
